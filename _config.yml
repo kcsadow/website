@@ -5,9 +5,9 @@ permalink:        pretty
 
 
 # Setup
-title:            Project Name
+title:            Personal Website
 tagline:          ''
-description:      'Project Description' 
+description:      'Personal Website' 
 url:              "https://kcsadow.github.io"
 baseurl:          "/website"
 
