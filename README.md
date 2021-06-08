@@ -1,38 +1,20 @@
-# Project Website Template
+# Katharine Sadowski
 
-This is a template for a public [gh-pages](https://pages.github.com/) webpage for projects which can be freely hosted online.
+Policy Analysis and Management PhD Student, Cornell University 
 
-## Repository Creation
+CV [gh-pages](https://pages.github.com/) 
 
-* decide on a name for the repository (it will determine the webpage url, but you can change it later)
-* click on `Use this template` & enter your repo name & create repo
-* enable publishing through the master branch (Settings -> GitHub-Pages)
-* add a link on the right for quick access to the webpage
+## About Me
 
+I am a current doctoral student in Policy Analysis and Management at Cornell University where I am concentrating in economics with a minor in data science. I am passionate about ensuring all students have access to a high-quality education. Being aware of the equity gaps that exist across the United States, I have started working on projects that examine how to improve teacher quality throguh teacher trainings and evaluating the equity of online versus in-person college programs. 
+
+In order to answer these difficult questions, I employ a variety of methodological tools from econometrics to natural language processing and machine learning. I love learning new programming languages and packages, not only because they are a fun challenge, but also because I believe they are an essential stepping stone to creating research informed policy solutions. 
+
+If you are interested in Katharine’s work and would like to know more, feel free to get in touch (email/twitter/etc.) using the contact page or the links below.
 
 ## Configuring your website
 * Modify your project name in the `_config.yml` file
 	
-## Editing your webpage
-
-* Each page is a markdown document
-	* Markdown is a text marking language designed for the web 
-		* [Markdown Tutorial](https://daringfireball.net/projects/markdown/syntax)
-	
-	* You can modify the markdown documents from the website (hit the edit button and commit when finished)
-    	* You can also clone the repo (or your fork of it) and make modifications locally
-		* [Macdown Editor for Mac](https://macdown.uranusjr.com/)
-		* [MarkdownPad for Windows](http://markdownpad.com/news/2013/introducing-markdownpad-2/)
-		* [Visual Studio Code](https://code.visualstudio.com/docs/languages/markdown)
-		* [Atom editor](https://atom.io/) has a markdown extension
-		
-* If you want to preview the webpage locally you need to install [Jekyll](https://jekyllrb.com/docs/installation/)(it is a bit involved), then run
-`bundle exec jekyll serve`
-	
-* You can modify your pages by setting up the sidebar:
-
-	* [https://github.com/uwescience/project-website-template/blob/master/_includes/sidebar.html](https://github.com/valentina-s/project-website-template/blob/master/_includes/sidebar.html)
-
 
 * Images go into [assets/img](https://github.com/valentina-s/project-website-template/tree/master/assets/img)
 	* they can be accessed by:
