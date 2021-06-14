@@ -8,7 +8,7 @@ layout: default
 # Katharine Sadowski, PhD Student 
 ## Department of Policy Analysis and Management, Cornell University 
 
-<img src="{{ site.url }}{{ site.baseurl }}/assets/img/kcsadow.jpg">
+<img src="{{ site.url }}{{ site.baseurl }}/assets/img/kcsadow.jpg" width="300" height="400" >
 
 # About Me 
 I am a current doctoral student in Policy Analysis and Management at Cornell University where I am concentrating in economics with a minor in data science. I am passionate about ensuring all students have access to a high-quality education. Being aware of the equity gaps that exist across the United States, I have started working on projects that examine and design methods for improving teacher quality through effective teacher training programs and evaluating the equity of online versus in-person college programs. 
