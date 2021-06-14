@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<img src="{{ site.url }}{{ site.baseurl }}/assets/img/cornell.png">
+<img src="{{ site.url }}{{ site.baseurl }}/assets/img/cornell.PNG">
 
 
 # Katharine Sadowski, PhD Student 
