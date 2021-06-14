@@ -2,13 +2,13 @@
 layout: default
 ---
 
-<img src="{{ site.url }}{{ site.baseurl }}/assets/img/eScience.png">
+<img src="{{ site.url }}{{ site.baseurl }}/assets/img/Cornell.png">
 
 
 # Professional Websites with GitHub Pages
 
-## Valentina Staneva
-### eScience Institute, University of Washington
+## Katharine Sadowski
+### Cornell University 
 
 # Plan for today
 * Go over what [GitHub Pages](https://pages.github.com/) are
