@@ -4,7 +4,7 @@ layout: default
 
 <img src="{{ site.url }}{{ site.baseurl }}/assets/img/cornell.PNG">
 
-<img src="{{ site.url }}{{ site.baseurl }}/assets/img/kcsadow.jpg" width="200" height="300" >
+<img src="{{ site.url }}{{ site.baseurl }}/assets/img/kcsadow.jpg" width="200" height="275" >
 
 # Katharine Sadowski, PhD Student 
 ## Department of Policy Analysis and Management, Cornell University 
