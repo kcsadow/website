@@ -2,15 +2,13 @@
 layout: default
 ---
 
-<img src="{{ site.url }}{{ site.baseurl }}/assets/img/Cornell.png">
+<img src="{{ site.url }}{{ site.baseurl }}/assets/img/cornell.png">
 
 
-# Professional Websites with GitHub Pages
+# Katharine Sadowski
+## Cornell University 
 
-## Katharine Sadowski
-### Cornell University 
-
-# Plan for today
+# 
 * Go over what [GitHub Pages](https://pages.github.com/) are
   * git & Github
     * make sure you have made an account on [Github.com](Github.com) (don't need to install `git` today)
