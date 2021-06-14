@@ -5,13 +5,17 @@ title: Research
 
 **Research In Progress**
 
-Rene: ASU online learning
-Rhonda: Technology
-Rhonda: Low cost methods
-Rhonda: Simulation actor bias
-Maria: Healthjump
-Maria: Maltreatment
-Maria: Predictive NH 
+ASU online learning Rene)
+
+Technology (Rhonda)
+
+Low cost methods (Rhonda)
+
+Simulation actor bias (Rhonda)
+
+Healthjump (with Maria Fitzpatrick)
+
+Examining child maltreatment (with Maria Fitzpatrick)
 
 **Peer-Reviewed Publications**
 
