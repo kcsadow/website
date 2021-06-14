@@ -11,7 +11,11 @@ description:      'Personal Website'
 url:              "https://kcsadow.github.io"
 baseurl:          "/website"
 
-
+  # generate social links in footer
+  social_links:
+    twitter: jekyllrb
+    github:  jekyll
+    
 paginate:         5
 
 # Custom vars
@@ -19,3 +23,5 @@ version:          0.0.0
 
 github:
   repo:           https://github.com/kcsadow/website
+  
+
