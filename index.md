@@ -17,8 +17,8 @@ If you are interested in Katharine’s work and would like to know more, feel fr
 
 <!-- display the social media buttons in your README -->
 
-[![alt text][1.1]][1]
-[![alt text][2.1]][2]
+[![alt text][1.2]][1]
+[![alt text][2.2]][2]
 
 
 <!-- links to social media icons -->
