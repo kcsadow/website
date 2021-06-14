@@ -12,7 +12,7 @@ In order to answer these difficult questions, I employ a variety of methodologic
 
 If you are interested in Katharine’s work and would like to know more, feel free to get in touch by email ks2373@cornell.edu or through the links below. 
 
-<!-- display the social media buttons in your README -->
+<!-- display the social media buttons in your README (credit: carlsednaoui/gitsocial) -->
 
 [![alt text][1.1]][1]
 [![alt text][2.1]][2]
