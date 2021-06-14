@@ -5,15 +5,15 @@ title: Research
 
 **Research In Progress**
 
-Examining the differences in outcomes of online versus traditional in-person programs for a major university using propsensity score matching (with Rene Kizilcec)
+Examining the differences in outcomes of online versus traditional in-person programs for a major university using propsensity score matching (with Rene Kizilcec, Cornell Future of Learning Lab)
 
-Using natural language processing and machine learning techniques to 1) examine the effectiveness of coaching interventions in teacher simulations and 2) lower costs of simulations through automated report generation (with Rhonda Bondie)
+Using natural language processing and machine learning techniques to 1) examine the effectiveness of coaching interventions in teacher simulations and 2) lower costs of simulations through automated report generation (with Rhonda Bondie, Harvard Agile Teacher Lab)
 
-Using natural language processing to test for teacher and actor bias in teacher simulations (with Rhonda Bondis)
+Using natural language processing to test for teacher and actor bias in teacher simulations (with Rhonda Bondie, Harvard Agile Teacher Lab)
 
-Examining how child health outcomes changed as result of Covid-19 related school closures using electronic health data (with Maria Fitzpatrick)
+Examining how child health outcomes changed as result of Covid-19 related school closures using electronic health data (with Maria Fitzpatrick, Advisor)
 
-Predicting child maltreatment using administrative data and transcripts from social workers deliberations (with Maria Fitzpatrick)
+Predicting child maltreatment using administrative data and transcripts from social workers deliberations (with Maria Fitzpatrick, Advisor)
 
 **Peer-Reviewed Publications**
 
