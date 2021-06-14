@@ -8,7 +8,7 @@ title: Data Visualization
 Harvard's Agile Teacher Lab conducted a Teaching Practices Survey for teachers taking a special professional development course. This website allows teachers who are participating in the course to 1) compare their personalized survey results (emailed to them individually) to aggregate results for comparison cohorts of teachers and 2) find grade and subject relevant-resources for areas of instruction they would like to improve. 
 
 
-**Coming Soon**
+**COMING SOON**
 
 **Precipitation Maps of UK** (using R Shiny App)
 
