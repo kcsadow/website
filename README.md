@@ -10,7 +10,30 @@ I am a current doctoral student in Policy Analysis and Management at Cornell Uni
 
 In order to answer these difficult questions, I employ a variety of methodological tools from econometrics to natural language processing and machine learning. I love learning new programming languages and packages, not only because they are a fun challenge, but also because I believe they are an essential stepping stone to creating research informed policy solutions. 
 
-If you are interested in Katharine’s work and would like to know more, feel free to get in touch (email/twitter/etc.) using the contact page or the links below.
+If you are interested in Katharine’s work and would like to know more, feel free to get in touch by email ks2373@cornell.edu or through the links below. 
+
+<!-- display the social media buttons in your README -->
 
 [![alt text][1.1]][1]
 [![alt text][2.1]][2]
+
+
+<!-- links to social media icons -->
+<!-- no need to change these -->
+
+<!-- icons with padding -->
+
+[1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
+[2.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
+
+<!-- icons without padding -->
+
+[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
+[2.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
+
+
+<!-- links to your social media accounts -->
+<!-- update these accordingly -->
+
+[1]: http://www.twitter.com/kcsadow
+[2]: http://www.github.com/kcsadow
