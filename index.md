@@ -16,7 +16,7 @@ I am a current doctoral student in Policy Analysis and Management at Cornell Uni
 
 In order to answer these difficult questions, I employ a variety of methodological tools from econometrics to natural language processing and machine learning. I love learning new programming languages and packages, not only because they are a fun challenge, but also because I believe they are an essential stepping stone to creating research informed policy solutions.
 
-If you are interested in Katharine’s work and would like to know more, feel free to get in touch by email ks2373@cornell.edu or through these links: [![alt text][1.1]{:target="_blank"}][1]  [![alt text][2.1]{:target="_blank"}][2]
+If you are interested in Katharine’s work and would like to know more, feel free to get in touch by email ks2373@cornell.edu or through these links: [![alt text][1.1]][1]  [![alt text][2.1]][2]
 
 <!-- links to social media icons -->
 <!-- no need to change these -->
