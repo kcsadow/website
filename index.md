@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<img src="{{ site.url }}{{ site.baseurl }}/assets/img/BrooksHeader.PNG" >
+<img src="{{ site.url }}{{ site.baseurl }}/assets/img/BrooksHeader.png" >
 
 <p align="center">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/img/kcsadow.jpg" width="200" height="275">
