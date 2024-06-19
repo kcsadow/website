@@ -8,15 +8,13 @@ layout: default
   <img src="{{ site.url }}{{ site.baseurl }}/assets/img/kcsadow.jpg" width="200" height="275">
 </p>
 
-# Katharine Sadowski, PhD Student 
-## Department of Policy Analysis and Management, Cornell University 
+# Katharine Sadowski, PhD Candidate 
+## Cornell University, Brooks School of Public Policy 
 
 # About Me 
-I am a current doctoral student in Policy Analysis and Management at Cornell University where I am concentrating in economics with a minor in data science. I am passionate about ensuring all students have access to a high-quality education. Being aware of the equity gaps that exist across the United States, I am working on projects examining policies aimed at improving educational opportunities by focusing on the mental health students, as well as on the connection of education and labor market outcomes through access to high school magnet and career/technical programs and more affordable/non-traditional higher education. 
+I am a doctoral candidate at Cornell's Brook School of Public Policy concentrating in economics with a minor in data science. My research interests are broadly policy analysis, labor economics, and the economics of education. I am currently spending the bulk of my time on two projects. The first is a national childcare provider dataset for which I am actively collecting historic and real-time childcare data. The second is a Census project examining the effects of minimum wage increases on childcare firms. In addition to my work in early childcare, I also have a variety of projects studying the effectiveness of school health programs in NYC, the effect of online learning on transfer student outcomes, and the effect of student's course taking behavior on student's labor market outcomes. 
 
-In order to answer these difficult questions, I employ a variety of methodological tools from econometrics to natural language processing and machine learning. I love learning new programming languages and packages, not only because they are a fun challenge, but also because I believe they are an essential stepping stone to creating research informed policy solutions.
-
-If you are interested in Katharine’s work and would like to know more, feel free to get in touch by email ks2373@cornell.edu or through these links: [![alt text][1.1]][1]  [![alt text][2.1]][2]
+I employ a variety of methodological tools from econometrics to natural language processing and machine learning. I enjoy learning new programming languages and packages, not only because they are a fun challenge, but also because I believe they are an essential stepping stone to creating research informed policy solutions. If you are interested in Katharine’s work and would like to know more, feel free to get in touch by email ks2373@cornell.edu or through these links: [![alt text][1.1]][1]  [![alt text][2.1]][2]
 
 <!-- links to social media icons -->
 <!-- no need to change these -->
