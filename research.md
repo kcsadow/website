@@ -5,42 +5,32 @@ title: Research
 
 **Research In Progress**
 
-Examining the effect of attending a high school magnet program (or career/technical academy) on career and college attainment 
+The Effect of the Minimum Wage on Childcare Firms (approved Federal Statistical Research Data Center project)
 
-Examining the effect of Covid on the global gap in online learning between high and low HDI countries (with Rene Kizilcec, Cornell Future of Learning Lab, and Christos Makridis)
+The Effect of High School Magnet Programs on Academic and Racial Segregation (approved Texas Education Agency project) 
 
-Examining the effect of lifting court ordered desegregation orders on community segregation and local housing values (with Maria Fitzpatrick, Advisor, and Rene Crespin and Emiliano Harris, PhD students)
+Does Access to an Algorithmic Decision-making Tool Change Child Protective Service Caseworkers’ Investigation Decisions? (Revise and Resubmit; with Maria Fitzpatrick and Chris Wildeman)
 
-Examining the differences in outcomes of online versus traditional in-person programs for a major university using propsensity score matching (with Rene Kizilcec, Cornell Future of Learning Lab)
+Asthma Management in Schools: A Tool for Reducing Absenteeism? (With Maria Fitzpatrick, Chelsea Chen, Sophia Day, Kevin Konty, Kira Argenio)
 
-Examining how child mental health outcomes changed as result of Covid-19 related school closures using electronic health data (with Maria Fitzpatrick, Advisor)
+Educational Equity in Online versus Residential Degree Programs for Transfer Students (with Rene Kizilcec)
 
-Predicting child maltreatment using administrative data and transcripts from social workers deliberations (with Maria Fitzpatrick, Advisor)
 
 **Peer-Reviewed Publications**
 
 Bassok, D., Markowitz, A., Bellows, L., & Sadowski, K. (2021). New Evidence on Teacher Turnover 
 in Early Childhood. Educational Evaluation and Policy Analysis, 42(4). 
 
-Kizilcec, R.F., Makridis, C.A., Sadowski, K. (2021). Pandemic Response Policies’ Democratizing Effects on 
-Online Learning. Proceedings of the National Academy of Sciences of the United States of 
+Cohen, J., Boguslav, A., Wyckoff, J., Katz V., Sadowski, K., Wiseman, E., (2023). Core Requirements, Structured Flexibility, and Local Judgment: Balancing Adherence and Adaptation in the Design and Implementation of District-Wide Professional Development. Educational Evaluation and Policy Analysis. Educational Evaluation and Policy Analysis. 
+
+Kizilcec, R.F., Makridis, C.A., Sadowski, K. (2021). Pandemic Response Policies’ Democratizing Effects on Online Learning. Proceedings of the National Academy of Sciences of the United States of 
 America, 188(11).
 
 Markowitz, A., Sadowski, K., & Hamre, B. (2021). Teacher Education and the Quality of Teacher-Child 
-Interactions: New Evidence from the Universe of Publicly-Funded Early Childhood Programs in Louisiana. 
-Early Education and Development, 1-19.
+Interactions: New Evidence from the Universe of Publicly-Funded Early Childhood Programs in Louisiana. Early Education and Development, 1-19.
 
 **Other Publications**
 
-Miller, L.C. & Sadowski, K. (October, 2017). Students Changing Schools During the School Year: Student 
-Mobility in Virginia and the Challenged School Divisions. Charlottesville, VA: USA. 
+Miller, L.C. & Sadowski, K. (October, 2017). Students Changing Schools During the School Year: Student Mobility in Virginia and the Challenged School Divisions. Charlottesville, VA: USA. 
 
-
-**Manuscripts Under Review**
-
-Miller, L.C., Sadowski, K., Piver-Renna, J. (2019). The Fifth Indicator: Does School Climate Provide New 
-Information on School Quality? (Under Review).
-
-Boguslav, A., Cohen, J. Katz, V., Sadowski, K., Wiseman, E., Wyckoff, J. (2021). Implementing Targeted 
-Professional Development at Scale in the District of Columbia Public Schools.
-
+Miller, L.C., Sadowski, K., Piver-Renna, J. (2019). The Fifth Indicator: Does School Climate Provide New Information on School Quality? Charlottesville, VA: USA. 
