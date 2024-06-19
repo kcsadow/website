@@ -10,11 +10,6 @@ Harvard's Agile Teacher Lab conducted a Teaching Practices Survey for teachers t
 
 **COMING SOON**
 
-**Precipitation Maps of UK** (using R Shiny App)
+**Childcare Desert Map** 
 
-These maps show total precipitation for local authority regions from 1990 to 2018 and include an interactive tool that allows you to scroll across time to see the map update in real-time.
-
-
-**Heatmap of teacher language** (using Python)
-
-Harvard's Agile Teacher Lab conducted virtual reality teacher simulations where teachers interacted with students (voiced by actors) to practice agile teaching practice. Teachers led students through a prompt and were graded on the level of feedback each of each of their responses. This visual allows you to compare linguistic differences (e.g., unigrams and bigrams) between low, medium, and high-level teacher feedback statements.  
+This map is the product of a two year long effort to contact every state agency with childcare licensing data in the United States to collect a comprehensive list of every childcare provider and relevant business information including their address, sector (Head Start, Family Day Home, Childcare, Pre-K), capacity, ages of children served, among other information. This is an active collection, with currently 35 states reporting. As part of this project, I am also actively working on scraping state websites on a monthly basis. This July will mark 1 year of monthly data retrieval. Once cleaned, these resources will provide researchers a real-time, publicly available, source of childcare providers and capacity. 
