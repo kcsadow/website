@@ -3,7 +3,7 @@ layout: page
 title: Curriculum Vitae
 ---
 
-Last Updated: June 17, 2021
+Last Updated: June 18, 2024
 
-[Click here](https://cfadmin.human.cornell.edu/FAR/uploads/webcv/ks2373_webcv_4C4D725E-AD6D-49B5-85F5-2FC0AD316058.pdf)  to download my CV
+[Click here](https://github.com/kcsadow/website/blob/ed094632bbaecc13f085eafc84f9775e0d8c8818/public/CV_Sadowski.pdf)  to download my CV
 
