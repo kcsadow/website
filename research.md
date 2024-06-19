@@ -3,6 +3,8 @@ layout: page
 title: Research
 ---
 
+Last updated: June 18, 2024
+
 **Research In Progress**
 
 1. The Effect of the Minimum Wage on Childcare Firms (approved Federal Statistical Research Data Center project)
