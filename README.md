@@ -10,12 +10,11 @@ I am a doctoral candidate at Cornell University's Brook School of Public Policy 
 
 In order to answer these questions, I employ a variety of methodological tools from econometrics to natural language processing and machine learning. I love learning new programming languages and packages, not only because they are a fun challenge, but also because I believe they are an essential stepping stone to conducting rigorous research which is necessary to inform policy. 
 
-If you are interested in Katharine’s work and would like to know more, feel free to get in touch by email ks2373@cornell.edu or through the links below. 
+If you are interested in Katharine’s work and would like to know more, feel free to get in touch by email ks2373@cornell.edu
 
 <!-- display the social media buttons in your README (credit: carlsednaoui/gitsocial) -->
 
-[![alt text][1.1]][1]
-[![alt text][2.1]][2]
+<!-- or through the links below. [![alt text][1.1]][1] [![alt text][2.1]][2] -->
 
 
 <!-- links to social media icons -->
