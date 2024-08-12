@@ -36,4 +36,4 @@ I employ a variety of methodological tools from econometrics to natural language
 [1]: http://www.twitter.com/kcsadow
 [2]: http://www.github.com/kcsadow
 
-//or through these links: [![alt text][1.1]][1]  [![alt text][2.1]][2]
+<!-- or through these links: [![alt text][1.1]][1]  [![alt text][2.1]][2] -->
