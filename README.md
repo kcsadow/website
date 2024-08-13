@@ -2,7 +2,7 @@
 
 PhD Candidate, Cornell University Brooks School of Public Policy 
 
-[CV](https://github.com/kcsadow/website/blob/ed094632bbaecc13f085eafc84f9775e0d8c8818/public/Sadowski_CV.pdf) 
+[CV](https://github.com/kcsadow/website/blob/master/public/Sadowski_CV.pdf) 
 
 ## About Me
 
