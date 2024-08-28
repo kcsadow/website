@@ -1,6 +1,6 @@
 # Katharine Sadowski
 
-PhD Candidate, Cornell University Brooks School of Public Policy 
+PhD Candidate, Cornell University J.E.B. Brooks School of Public Policy 
 
 [CV](https://drive.google.com/file/d/1ZfqbpE3FG4kzJJPBUcTEiIHcmzQpVt9q/view?usp=sharing) 
 
