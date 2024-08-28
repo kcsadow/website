@@ -11,7 +11,7 @@ Last updated: August 13, 2024
 
 **Working Papers**
 
-“Does Access to an Algorithmic Decision-making Tool Change Child Protective Service Caseworkers’ Investigation Decisions?” (Revise and Re-submit; with Maria Fitzpatrick and Chris Wildeman)
+“Does Access to an Algorithmic Decision-making Tool Change Child Protective Service Caseworkers’ Investigation Decisions?” (Revise and Re-submit at JHR; with Maria Fitzpatrick and Chris Wildeman)
 
 “Asthma Management in Schools: A Tool for Reducing Absenteeism?” (with Maria Fitzpatrick, Chelsea Chen, Sophia Day, Kevin Konty, and Kira Argenio)
 
