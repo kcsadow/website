@@ -2,11 +2,11 @@
 
 PhD Candidate, Cornell University Brooks School of Public Policy 
 
-[CV](https://github.com/kcsadow/website/blob/master/public/Sadowski_CV.pdf) 
+[CV](https://drive.google.com/file/d/1ZfqbpE3FG4kzJJPBUcTEiIHcmzQpVt9q/view?usp=sharing) 
 
 ## About Me
 
-I am a doctoral candidate at Cornell University's Brook School of Public Policy where I am concentrating in economics with a minor in data science. I am passionate about ensuring all children have access to high-quality education regardless of their socio-economic backgrounds. My work is focused broadly in the fields of policy analysis, economics of education, and labor economics. I have two active projects examining 1) the effects of minimum wage policies on childcare business dynamics and 2) how access to high school magnet and career/technical programs affects student short term and long term outcomes. 
+I am a doctoral candidate at Cornell University's Brook School of Public Policy where I am concentrating in economics with a minor in data science. I am an empirical microeconomist focused broadly in the fields of policy analysis, economics of education, and labor economics. I have two active strains of personal research. The first examines the effects of minimum wage policies on childcare business dynamics and the second examines how access to high school magnet and career/technical programs affects student short term and long term outcomes. 
 
 In order to answer these questions, I employ a variety of methodological tools from econometrics to natural language processing and machine learning. I love learning new programming languages and packages, not only because they are a fun challenge, but also because I believe they are an essential stepping stone to conducting rigorous research which is necessary to inform policy. 
 
