@@ -5,7 +5,7 @@ title: teaching
 
 Last updated: August 30, 2024
 
-**<u>BIG DATA FOR BIG POLICY PROBLEMS</u>** <br>
+<u>**BIG DATA FOR BIG POLICY PROBLEMS**</u> <br>
 **Objective:** Summer introductory course designed to provide students with an overview of broad policy issues and teaching them how to use programming language R to answer policy-relevant questions. <br> 
 **Taught:** Summer 2019 (initial offering) and Summer 2020 <br>
 **Coding Language:** R <br>
