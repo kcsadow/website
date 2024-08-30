@@ -5,7 +5,7 @@ layout: default
 <!-- img src="{{ site.url }}{{ site.baseurl }}/assets/img/BrooksHeader.png" -->
 
 # Katharine Sadowski, PhD Candidate 
-## Cornell University, Brooks School of Public Policy 
+## Cornell University, J.E.B. Brooks School of Public Policy 
 
 <p align="center">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/img/kcsadow.jpg" width="200" height="275">
