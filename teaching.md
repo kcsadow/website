@@ -9,7 +9,7 @@ Last updated: August 30, 2024
 **Objective:** Summer introductory course designed to provide students with an overview of broad policy issues and teaching them how to use programming language R to answer policy-relevant questions. <br> 
 **Taught:** Summer 2019 (initial offering) and Summer 2020 <br>
 **Coding Language:** R <br>
-**Role:** Graduate Teaching assistant, course content creator <br> 
+**Role:** Graduate Teaching Assistant, course content creator <br> 
 [Link](https://ecornell.cornell.edu/certificates/data-science-analytics/big-data-for-big-policy-problems/) to course overview <br> <br>
 
 <ins>**STATA CODING COURSE**</ins> <br>
