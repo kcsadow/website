@@ -3,7 +3,7 @@ layout: page
 title: Research
 ---
 
-Last updated: August 13, 2024
+Last updated: August 30, 2024
 
 <ins>**JOB MARKET PAPER**</ins> <br>
 “The Effect of the Minimum Wage on Childcare Firms” (approved Federal Statistical Research Data Center project) <br><br>
