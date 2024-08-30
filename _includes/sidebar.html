@@ -11,7 +11,8 @@
     <nav class="sidebar-nav">
       <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="{{ site.baseurl }}">Home</a>
       <a class="sidebar-nav-item {% if page.url == node.url %} active{% endif %}" href="{{ '/cv' | prepend: site.baseurl }}">Curriculum Vitae</a>
-      <a class="sidebar-nav-item {% if page.url == node.url %} active{% endif %}" href="{{ '/research' | prepend: site.baseurl }}">Research</a>    
+      <a class="sidebar-nav-item {% if page.url == node.url %} active{% endif %}" href="{{ '/research' | prepend: site.baseurl }}">Research</a>  
+      <a class="sidebar-nav-item {% if page.url == node.url %} active{% endif %}" href="{{ '/teaching' | prepend: site.baseurl }}">Teaching</a>          
       <a class="sidebar-nav-item {% if page.url == node.url %} active{% endif %}" href="{{ '/dataviz' | prepend: site.baseurl }}">Data Visualization</a>    
       
       {% comment %}
