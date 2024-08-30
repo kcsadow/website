@@ -13,24 +13,24 @@ Last updated: August 13, 2024
 “Asthma Management in Schools: A Tool for Reducing Absenteeism?” (with Maria Fitzpatrick, Chelsea Chen, Sophia Day, Kevin Konty, and Kira Argenio)<br><br>
 
 <ins>**Works in Progress**</ins><br>
-“The Effect of High School Magnet Programs on Academic and Racial Segregation” (approved Texas Education Agency project)<br>
+“The Effect of High School Magnet Programs on Academic and Racial Segregation” (approved Texas ERC project)<br><br>
 “Educational equality in online versus residential degree programs” (with Rene Kizilcec)<br><br>
 
 <ins>**Peer-Reviewed Publications**</ins><br>
 Bassok, D., Markowitz, A., Bellows, L., & Sadowski, K. (2021). New Evidence on Teacher Turnover 
-in Early Childhood. Educational Evaluation and Policy Analysis, 42(4). [READ ME](https://eric.ed.gov/?id=EJ1284447) <br>
+in Early Childhood. Educational Evaluation and Policy Analysis, 42(4). [READ ME](https://eric.ed.gov/?id=EJ1284447) <br><br>
 Boguslav, A., Cohen, J., Katz V., Sadowski, K., Wiseman, E., Wyckoff, J. (2023). Core Requirements, Structured 
 Flexibility, and Local Judgment: Balancing Adherence and Adaptation in the Design and Implementation of 
-District-Wide Professional Development. Educational Evaluation and Policy Analysis. Educational Evaluation and Policy Analysis. [READ ME](https://journals.sagepub.com/doi/abs/10.3102/01623737231210285)<br>
+District-Wide Professional Development. Educational Evaluation and Policy Analysis. Educational Evaluation and Policy Analysis. [READ ME](https://journals.sagepub.com/doi/abs/10.3102/01623737231210285)<br><br>
 Kizilcec, R.F., Makridis, C.A., Sadowski, K. (2021). Pandemic Response Policies’ Democratizing Effects on 
-Online Learning. Proceedings of the National Academy of Sciences of the United States of America, 188(11). [READ ME](https://pubmed.ncbi.nlm.nih.gov/33707215/) <br>
+Online Learning. Proceedings of the National Academy of Sciences of the United States of America, 188(11). [READ ME](https://pubmed.ncbi.nlm.nih.gov/33707215/)<br><br>
 Markowitz, A., Sadowski, K., & Hamre, B. (2021). Teacher Education and the Quality of Teacher-Child 
 Interactions: New Evidence from the Universe of Publicly-Funded Early Childhood Programs in Louisiana. 
 Early Education and Development, 1-19. [READ ME](https://www.tandfonline.com/doi/abs/10.1080/10409289.2021.1888036) <br><br>
 
 <ins>**Other Publications**</ins><br>
-Miller, L.C. & Sadowski, K. (October, 2017). Students Changing Schools During the School Year: Student Mobility in Virginia and the Challenged School Divisions. Charlottesville, VA: USA. <br>
-Miller, L.C., Sadowski, K., Piver-Renna, J. (2019). The Fifth Indicator: Does School Climate Provide New Information on School Quality? Charlottesville, VA: USA.  <br>
+Miller, L.C. & Sadowski, K. (October, 2017). Students Changing Schools During the School Year: Student Mobility in Virginia and the Challenged School Divisions. Charlottesville, VA: USA. <br><br>
+Miller, L.C., Sadowski, K., Piver-Renna, J. (2019). The Fifth Indicator: Does School Climate Provide New Information on School Quality? Charlottesville, VA: USA.  <br><br>
 
 <ins>**Resting Projects** </ins><br>
 “Are Schools Protective of Health, Even During a Pandemic? The Effects of School Openings During the COVID-19 Pandemic on Children’s Health Care Usage.” (with Maria Fitzpatrick)
