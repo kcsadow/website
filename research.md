@@ -5,18 +5,18 @@ title: Research
 
 Last updated: August 13, 2024
 
-<ins>**Job Market Paper**</ins> <br>
+<ins>**JOB MARKET PAPER**</ins> <br>
 “The Effect of the Minimum Wage on Childcare Firms” (approved Federal Statistical Research Data Center project) <br><br>
 
-<ins>**Working Papers**</ins> <br>
+<ins>**WORKING PAPERS**</ins> <br>
 “Does Access to an Algorithmic Decision-making Tool Change Child Protective Service Caseworkers’ Investigation Decisions?” (Revise and Re-submit at JHR; with Maria Fitzpatrick and Chris Wildeman)<br><br>
 “Asthma Management in Schools: A Tool for Reducing Absenteeism?” (with Maria Fitzpatrick, Chelsea Chen, Sophia Day, Kevin Konty, and Kira Argenio)<br><br>
 
-<ins>**Works in Progress**</ins><br>
+<ins>**WORKS IN PROGRESS**</ins><br>
 “The Effect of High School Magnet Programs on Academic and Racial Segregation” (approved Texas ERC project)<br><br>
 “Educational equality in online versus residential degree programs” (with Rene Kizilcec)<br><br>
 
-<ins>**Peer-Reviewed Publications**</ins><br>
+<ins>**PEER-REVIEWED PUBLICATIONS**</ins><br>
 Bassok, D., Markowitz, A., Bellows, L., & Sadowski, K. (2021). New Evidence on Teacher Turnover 
 in Early Childhood. Educational Evaluation and Policy Analysis, 42(4). [READ ME](https://eric.ed.gov/?id=EJ1284447) <br><br>
 Boguslav, A., Cohen, J., Katz V., Sadowski, K., Wiseman, E., Wyckoff, J. (2023). Core Requirements, Structured 
@@ -28,7 +28,7 @@ Markowitz, A., Sadowski, K., & Hamre, B. (2021). Teacher Education and the Quali
 Interactions: New Evidence from the Universe of Publicly-Funded Early Childhood Programs in Louisiana. 
 Early Education and Development, 1-19. [READ ME](https://www.tandfonline.com/doi/abs/10.1080/10409289.2021.1888036) <br><br>
 
-<ins>**Other Publications**</ins><br>
+<ins>**OTHER PUBLICATIONS**</ins><br>
 Miller, L.C. & Sadowski, K. (October, 2017). Students Changing Schools During the School Year: Student Mobility in Virginia and the Challenged School Divisions. Charlottesville, VA: USA. <br><br>
 Miller, L.C., Sadowski, K., Piver-Renna, J. (2019). The Fifth Indicator: Does School Climate Provide New Information on School Quality? Charlottesville, VA: USA.  <br><br>
 
