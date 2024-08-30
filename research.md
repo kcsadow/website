@@ -9,7 +9,7 @@ Last updated: August 13, 2024
 “The Effect of the Minimum Wage on Childcare Firms” (approved Federal Statistical Research Data Center project) <br><br>
 
 <ins>**Working Papers**</ins> <br>
-“Does Access to an Algorithmic Decision-making Tool Change Child Protective Service Caseworkers’ Investigation Decisions?” (Revise and Re-submit at JHR; with Maria Fitzpatrick and Chris Wildeman)<br>
+“Does Access to an Algorithmic Decision-making Tool Change Child Protective Service Caseworkers’ Investigation Decisions?” (Revise and Re-submit at JHR; with Maria Fitzpatrick and Chris Wildeman)<br><br>
 “Asthma Management in Schools: A Tool for Reducing Absenteeism?” (with Maria Fitzpatrick, Chelsea Chen, Sophia Day, Kevin Konty, and Kira Argenio)<br><br>
 
 <ins>**Works in Progress**</ins><br>
@@ -32,6 +32,5 @@ Early Education and Development, 1-19. [READ ME](https://www.tandfonline.com/doi
 Miller, L.C. & Sadowski, K. (October, 2017). Students Changing Schools During the School Year: Student Mobility in Virginia and the Challenged School Divisions. Charlottesville, VA: USA. <br>
 Miller, L.C., Sadowski, K., Piver-Renna, J. (2019). The Fifth Indicator: Does School Climate Provide New Information on School Quality? Charlottesville, VA: USA.  <br>
 
-**Resting Projects** 
-
+<ins>**Resting Projects** </ins><br>
 “Are Schools Protective of Health, Even During a Pandemic? The Effects of School Openings During the COVID-19 Pandemic on Children’s Health Care Usage.” (with Maria Fitzpatrick)
