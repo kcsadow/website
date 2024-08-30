@@ -1,12 +1,11 @@
 ---
 layout: page
-title: Teaching
+title: teaching
 ---
 
 Last updated: August 30, 2024
 
-**Economics of Public Policy I & II**
-
+**Economics of Public Policy I & II** <br>
 **Objective:** Two-part economics course for masters of public policy students designed as a way to introduce students to simple economic models that help explain how individuals and organizations respond to changes in their circumstances and how they interact in markets. Attention is also given to explaining the reasons behind government intervention. 
 
 Taught: Fall 2015, Spring 2016
