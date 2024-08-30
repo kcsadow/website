@@ -16,7 +16,7 @@ I am a doctoral candidate at Cornell's J.E.B. Brooks School of Public Policy con
 
 In addition to my work in early childcare, I am also actively pursuing projects studying the 1) effect of magnet school entry on academic, racial, and socio-economic classroom segregation through an approved project with [Texas ERC data](https://texaserc.utexas.edu/), 2) effectiveness of school health programs in New York City through a partnership with the Office of School Health, and 3) effect of student's course taking behavior on their labor market outcomes through a partnership with [Burning Glass Institute](https://www.burningglassinstitute.org/) and University of Michigan's [College and Beyond II Initiative](https://www.icpsr.umich.edu/web/about/cms/4370). 
 
-If you are interested in Katharine’s work and would like to know more, feel free to get in touch by email ks2373@cornell.edu. 
+If you are interested in my work and would like to know more, feel free to get in touch by email ks2373@cornell.edu. 
 
 <!-- links to social media icons -->
 <!-- no need to change these -->
