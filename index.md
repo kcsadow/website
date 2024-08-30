@@ -16,7 +16,9 @@ I am a doctoral candidate at Cornell's J.E.B. Brooks School of Public Policy con
 
 In addition to my work in early childcare, I am also actively pursuing projects studying 1) the effect of magnet school entry on academic, racial, and socio-economic classroom segregation through an approved project with [Texas ERC data](https://texaserc.utexas.edu/), 2) the effectiveness of school health programs in New York City through a partnership with the Office of School Health, and 3) the effect of student's course taking behavior on their labor market outcomes through a partnership with [Burning Glass Institute](https://www.burningglassinstitute.org/) and University of Michigan's [College and Beyond II Initiative](https://www.icpsr.umich.edu/web/about/cms/4370). 
 
-If you are interested in my work and would like to know more, feel free to get in touch by email ks2373@cornell.edu. 
+During my time as a PhD student, I began working as an economist with the Burning Glass Institute where I examined labor market outcomes and the return on investment for higher education through partnerships with the [University of North Carolina system](https://www.northcarolina.edu/wp-content/uploads/reports-and-documents/economic-reports/unc-roi-study-of-university-programs-november-2023.pdf) and the [Texas Higher Education Coordinating Board](https://www.texas-air.org/wp-content/uploads/2024/04/TAIR2024-D4_Aligning-Texas-Higher-Education-Supply-and-Labor-Market-Demand.pdf). 
+
+I would be happy to discuss my work, applying to graduate school, the trade-off between MA and PhD programs, or my time working at BGI or studying at Cornell. Feel free to get in touch by email ks2373@cornell.edu.
 
 <!-- links to social media icons -->
 <!-- no need to change these -->
