@@ -5,9 +5,8 @@ title: Research
 
 Last updated: August 13, 2024
 
-**Job Market Paper**
-
-“The Effect of the Minimum Wage on Childcare Firms” (approved Federal Statistical Research Data Center project)
+<ins>**Job Market Paper**</ins> <br>
+“The Effect of the Minimum Wage on Childcare Firms” (approved Federal Statistical Research Data Center project) <br><br>
 
 **Working Papers**
 
