@@ -6,9 +6,7 @@ PhD Candidate, Cornell University J.E.B. Brooks School of Public Policy
 
 ## About Me
 
-I am a doctoral candidate at Cornell University's J.E.B. Brook School of Public Policy where I am concentrating in economics with a minor in data science. I am an empirical microeconomist focused broadly in the fields of policy analysis, economics of education, and labor economics. I have two active strains of personal research. The first examines the effects of minimum wage policies on childcare business dynamics and the second examines how access to high school magnet and career/technical programs affects student short term and long term outcomes. 
-
-In order to answer these questions, I employ a variety of methodological tools including econometrics, natural language processing, and machine learning. I love learning new programming languages and packages, not only because they are a fun challenge, but also because I believe they are an essential stepping stone to conducting rigorous research which is necessary to inform policy. 
+I am a doctoral candidate at Cornell University's J.E.B. Brook School of Public Policy where I am concentrating in economics with a minor in data science. I am an empirical microeconomist focused broadly in the fields of policy analysis, economics of education, and labor economics. I employ a variety of methodological tools including econometrics, natural language processing, and machine learning. I have mutiple active strains of personal research with the majority of my energy currently dedicated to my Job Market Paper examining the effects of minimum wage policies on childcare businesses.
 
 If you are interested in Katharine’s work and would like to know more, feel free to get in touch by email ks2373@cornell.edu.
 
