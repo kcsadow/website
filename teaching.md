@@ -1,6 +1,6 @@
 ---
 layout: page
-title: teaching
+title: Teaching
 ---
 
 Last updated: August 30, 2024
