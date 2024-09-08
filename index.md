@@ -8,7 +8,7 @@ layout: default
 ## Cornell University, J.E.B. Brooks School of Public Policy 
 
 <p align="center">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/img/sadowski_kc.jpeg" width="200" height="275">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/img/sadowski_kc.jpg" width="200" height="275">
 </p>
 
 # About Me 
