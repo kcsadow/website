@@ -3,7 +3,7 @@ layout: page
 title: Research
 ---
 
-Last updated: August 30, 2024
+Last updated: September 30, 2024
 
 <ins>**JOB MARKET PAPER**</ins> <br>
 “The Effect of the Minimum Wage on Childcare Firms” (approved Federal Statistical Research Data Center project) <br><br>
@@ -16,7 +16,18 @@ Childcare is essential for working families, yet it remains increasingly unaffor
 
 <ins>**WORKING PAPERS**</ins> <br>
 “Does Access to an Algorithmic Decision-making Tool Change Child Protective Service Caseworkers’ Investigation Decisions?” (Revise and Re-submit at JHR; with Maria Fitzpatrick and Chris Wildeman)<br><br>
+
+<details>
+<summary> Abstract: </summary>
+
+Over 40% of children experience maltreatment before adulthood, leading to negative outcomes and social costs. Child protection processes are complicated, biased, and prone to reporting errors, in part because the system is overloaded and underfunded. These factors suggest that algorithmic decision-making tools could improve efficiency of decision-making and outcomes in child welfare by supporting human decisions. In a randomized trial, we found that these tools can make investigation decisions more efficient without significantly affecting child outcomes, though COVID-related disruptions limited outcome analysis. The efficiency gains in the process could free up valuable time for staff to work directly with families.  </details> <br>
+
 “Asthma Management in Schools: A Tool for Reducing Absenteeism?” (with Maria Fitzpatrick, Chelsea Chen, Sophia Day, Kevin Konty, and Kira Argenio)<br><br>
+
+<details>
+<summary> Abstract: </summary>
+
+Asthma is one of the most common chronic diseases among children, afflicting around 10 percent of school-aged children in the U.S. and responsible for a significant portion of days children are absent from school. Since school attendance has been linked to graduation rates and other measures of school success, limiting absences could improve children’s long-run outcomes. In this study, we examine a program in which asthma case managers are assigned to NYC schools to support better management of the disease by working with students and their families. We use novel data on health and education outcomes for all public-school children and a triple-differences identification strategy motivated by the rollout of the program across schools over time, as well as by the fact that children with asthma were targeted for support. We find that the program greatly increased the probability children with asthma had a prescription for asthma, greatly improved asthma management within the school setting and decreased student absenteeism among children who ever had asthma by 7 percent. </details> <br>
 
 <ins>**WORKS IN PROGRESS**</ins><br>
 “The Effect of High School Magnet Programs on Academic and Racial Segregation” (approved Texas ERC project)<br><br>
