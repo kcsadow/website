@@ -48,6 +48,3 @@ Early Education and Development, 1-19. [READ ME](https://www.tandfonline.com/doi
 <ins>**OTHER PUBLICATIONS**</ins><br>
 Miller, L.C. & Sadowski, K. (October, 2017). Students Changing Schools During the School Year: Student Mobility in Virginia and the Challenged School Divisions. Charlottesville, VA: USA. <br><br>
 Miller, L.C., Sadowski, K., Piver-Renna, J. (2019). The Fifth Indicator: Does School Climate Provide New Information on School Quality? Charlottesville, VA: USA.  <br><br>
-
-<ins>**Resting Projects** </ins><br>
-“Are Schools Protective of Health, Even During a Pandemic? The Effects of School Openings During the COVID-19 Pandemic on Children’s Health Care Usage.” (with Maria Fitzpatrick)
