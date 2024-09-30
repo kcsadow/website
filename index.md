@@ -5,14 +5,14 @@ layout: default
 <!-- img src="{{ site.url }}{{ site.baseurl }}/assets/img/BrooksHeader.png" -->
 
 # Katharine Sadowski, PhD Candidate 
-## Cornell University, J.E.B. Brooks School of Public Policy 
+## Cornell University, Jeb E. Brooks School of Public Policy 
 
 <p align="center">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/img/sadowski_kc.jpg" width="200" height="275">
 </p>
 
 # About Me 
-My research interests are broadly policy analysis, labor and public economics, and the economics of education. I employ a variety of methodological tools from econometrics to natural language processing and machine learning. I am on the job market this academic year seeking associate professor positions in policy, economics, or education departments as well as research-focused positions within the federal government.
+My research interests are broadly policy analysis, labor and public economics, and the economics of education, especially Early Childhood Education. I employ a variety of methodological tools from econometrics to natural language processing and machine learning. I am on the job market this academic year seeking associate professor positions in policy, economics, or education departments as well as research-focused positions within the federal government.
 
 I am currently spending the bulk of my time on two projects. The first is a national childcare provider dataset for which I am actively collecting historic and real-time childcare data (see more [here](https://kcsadow.github.io/website/dataviz/)). The second is an approved [restricted-access Census](https://www.census.gov/topics/research/guidance/restricted-use-microdata.html) project examining the effects of minimum wage increases on childcare firms. These projects were sponsored in part by the [Horowitz Foundation for Social Policy](https://www.horowitz-foundation.org/2024) and the [2024 W.E. Upjohn Institute/RSF Dissertation Grant Program](https://www.russellsage.org/news/third-annual-dissertation-research-grants-awarded). 
 
