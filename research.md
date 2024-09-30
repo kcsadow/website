@@ -8,6 +8,12 @@ Last updated: August 30, 2024
 <ins>**JOB MARKET PAPER**</ins> <br>
 “The Effect of the Minimum Wage on Childcare Firms” (approved Federal Statistical Research Data Center project) <br><br>
 
+<details>
+<summary>**Abstract:**</summary>
+
+Childcare is essential for working families, yet it remains increasingly unaffordable and inaccessible for parents and offers poverty-level wages to many employees. While research suggests minimum wage policies may improve the welfare of low-wage workers, there is also evidence they may increase firm exits, especially among smaller, low-profit firms, which could reduce access and harm consumer well-being (Brown & Herbst, 2023; Dube et al., 2016; Luca & Luca, 2019). This study examines this potential trade-off in the context of the childcare industry, where strict staffing regulations may result in different minimum wage policy effects than in previously studied industries. Using variation stemming from state-level minimum wage increases between 1995 and 2019, I implement a border-discontinuity design to measure the potential impact on the stocks, flows, and composition of childcare establishments. I find that while aggregate establishment stocks remained stable, establishment-level turnover increased and employment decreased. Despite this, county-level employment stayed constant. I reconcile these findings by showing minimum wage increases led to compositional changes as larger establishments in the waged sector were more likely to enter and less likely to exit than smaller firms. Finally, I show the minimum wage may negatively affect the self-employed sector resulting in fewer owners with advanced degrees and more with only high school education. My findings suggest minimum wage increases change the composition of firms in the waged and self-employed sectors which could impact quality and access.
+</details>
+
 <ins>**WORKING PAPERS**</ins> <br>
 “Does Access to an Algorithmic Decision-making Tool Change Child Protective Service Caseworkers’ Investigation Decisions?” (Revise and Re-submit at JHR; with Maria Fitzpatrick and Chris Wildeman)<br><br>
 “Asthma Management in Schools: A Tool for Reducing Absenteeism?” (with Maria Fitzpatrick, Chelsea Chen, Sophia Day, Kevin Konty, and Kira Argenio)<br><br>
