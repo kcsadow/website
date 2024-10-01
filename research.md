@@ -20,7 +20,7 @@ Childcare is essential for working families, yet it remains increasingly unaffor
 <details>
 <summary> Abstract: </summary>
 
-Over 40% of children experience maltreatment before adulthood, leading to negative outcomes and social costs. Child protection processes are complicated, biased, and prone to reporting errors, in part because the system is overloaded and underfunded. These factors suggest that algorithmic decision-making tools could improve efficiency of decision-making and outcomes in child welfare by supporting human decisions. In a randomized trial, we found that these tools can make investigation decisions more efficient without significantly affecting child outcomes, though COVID-related disruptions limited outcome analysis. The efficiency gains in the process could free up valuable time for staff to work directly with families.  </details> 
+Over 40% of children experience maltreatment before adulthood, leading to negative outcomes and social costs. Child protection processes are complicated, biased, and prone to reporting errors, in part because the system is overloaded and underfunded. These factors suggest that algorithmic decision-making tools could improve efficiency of decision-making and outcomes in child welfare by supporting human decisions. In a randomized trial, we found that these tools can make investigation decisions more efficient without significantly affecting child outcomes, though COVID-related disruptions limited outcome analysis. The efficiency gains in the process could free up valuable time for staff to work directly with families.  </details> <br>
 
 “Asthma Management in Schools: A Tool for Reducing Absenteeism?” (with Maria Fitzpatrick, Chelsea Chen, Sophia Day, Kevin Konty, and Kira Argenio)<br>
 
