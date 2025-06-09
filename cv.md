@@ -3,7 +3,7 @@ layout: page
 title: Curriculum Vitae
 ---
 
-Last Updated: February 22, 2025
+Last Updated: June 9, 2025
 
-[Click here](https://drive.google.com/file/d/1CPKwO_T18OfS0GEMWf4PGMSDTi1Oc9m4/view?usp=drive_link)  to download my CV
+[Click here](https://drive.google.com/file/d/19F1OE6ujpDUXXxVsjrY6DdAbamuXIqao/view?usp=drive_link)  to download my CV
 
