@@ -1,12 +1,12 @@
 # Katharine Sadowski
 
-PhD Candidate, Cornell University Jeb E. Brooks School of Public Policy 
+PhD, Cornell University Jeb E. Brooks School of Public Policy 
 
 [CV](https://drive.google.com/file/d/19F1OE6ujpDUXXxVsjrY6DdAbamuXIqao/view?usp=drive_link) 
 
 ## About Me
 
-I am a doctoral candidate at Cornell University's Jeb E. Brooks School of Public Policy where I am concentrating in economics with a minor in data science. I am an empirical microeconomist focused broadly in the fields of policy analysis, economics of education, early childhood education, and labor/public economics. I employ a variety of methodological tools including econometrics, natural language processing, and machine learning. I have mutiple active strains of personal research with the majority of my energy currently dedicated to my Job Market Paper examining the effects of minimum wage policies on childcare businesses. In fall 2025, I'll be joining Stanford University's Graduate School of Education as an Assistant Professor. 
+I received my PhD from Cornell University's Jeb E. Brooks School of Public Policy in May 2025. My degree is in public policy with concentrations in economics and data science. I am an empirical microeconomist focused broadly in the fields of policy analysis, economics of education, early childhood education, and labor/public economics. I employ a variety of methodological tools including econometrics, natural language processing, and machine learning. I have mutiple strains of research with the majority of my time currently dedicated to my Job Market Paper, in which I examine the effects of minimum wage policies on childcare businesses. I'll be joining Stanford University's Graduate School of Education as an Assistant Professor of Education September 2025. 
 
 If you are interested in Katharine’s work and would like to know more, feel free to get in touch by email ks2373@cornell.edu.
 
