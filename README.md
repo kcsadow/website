@@ -2,7 +2,7 @@
 
 PhD Candidate, Cornell University Jeb E. Brooks School of Public Policy 
 
-[CV](https://drive.google.com/file/d/1ZfqbpE3FG4kzJJPBUcTEiIHcmzQpVt9q/view?usp=sharing) 
+[CV](https://drive.google.com/file/d/19F1OE6ujpDUXXxVsjrY6DdAbamuXIqao/view?usp=drive_link) 
 
 ## About Me
 
