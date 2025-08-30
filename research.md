@@ -6,7 +6,7 @@ title: Research
 Last updated: September 30, 2024
 
 <ins>**JOB MARKET PAPER**</ins> <br>
-“The Effect of the Minimum Wage on Childcare Firms” (approved Federal Statistical Research Data Center project) [Read Me](https://www.census.gov/library/working-papers/2025/adrm/CES-WP-25-53.html) <br>
+“The Effect of the Minimum Wage on Childcare Firms” [Read Me](https://www.census.gov/library/working-papers/2025/adrm/CES-WP-25-53.html) <br>
 
 <details>
 <summary> Abstract: </summary>
