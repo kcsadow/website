@@ -15,7 +15,7 @@ Childcare is essential for working families, yet it remains increasingly unaffor
 </details> <br>
 
 <ins>**WORKING PAPERS**</ins> <br>
-“Does Access to an Algorithmic Decision-making Tool Change Child Protective Service Caseworkers’ Investigation Decisions?” (Revise and Re-submit at JHR; with Maria Fitzpatrick and Chris Wildeman)<br>
+“Does Access to an Algorithmic Decision-making Tool Change Child Protective Service Caseworkers’ Investigation Decisions?” (Accepted JHR; with Maria Fitzpatrick and Chris Wildeman)<br>
 
 <details>
 <summary> Abstract: </summary>
