@@ -4,7 +4,7 @@ layout: default
 
 <!-- img src="{{ site.url }}{{ site.baseurl }}/assets/img/BrooksHeader.png" -->
 
-# Katharine Sadowski, PhD Candidate 
+# Katharine Sadowski, PhD 
 ## Cornell University, Jeb E. Brooks School of Public Policy 
 
 <p align="center">
@@ -12,7 +12,7 @@ layout: default
 </p>
 
 # About Me 
-My research interests are broadly policy analysis, labor and public economics, and the economics of education, especially Early Childhood Education. I employ a variety of methodological tools from econometrics to natural language processing and machine learning. I'll be joining Stanford University's Graduate School of Education as an Assistant Professor fall 2025.
+My research interests are broadly policy analysis, labor and public economics, and the economics of education, especially Early Childhood Education. I employ a variety of methodological tools from econometrics to natural language processing and machine learning. I am an Assistant Professor at Stanford University in the Graduate School of Education.
 
 I am currently spending the bulk of my time on two projects. The first is a national childcare provider dataset for which I am actively collecting historic and real-time childcare data (see more [here](https://kcsadow.github.io/website/dataviz/)). The second is an approved [restricted-access Census](https://www.census.gov/topics/research/guidance/restricted-use-microdata.html) project examining the effects of minimum wage increases on childcare firms. These projects were sponsored in part by the [Horowitz Foundation for Social Policy](https://www.horowitz-foundation.org/2024) and the [2024 W.E. Upjohn Institute/RSF Dissertation Grant Program](https://www.russellsage.org/news/third-annual-dissertation-research-grants-awarded). 
 
