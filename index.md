@@ -5,7 +5,7 @@ layout: default
 <!-- img src="{{ site.url }}{{ site.baseurl }}/assets/img/BrooksHeader.png" -->
 
 # Katharine Sadowski, PhD 
-## Cornell University, Jeb E. Brooks School of Public Policy 
+## Stanford University, Graduate School of Education 
 
 <p align="center">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/img/sadowski_kc.jpg" width="200" height="275">
