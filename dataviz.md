@@ -7,6 +7,7 @@ title: Data Visualization
 Visit the map [here](https://www.americanprogress.org/feature/child-care-deserts/)
 
 Full Methodology [here](https://www.americanprogress.org/article/measuring-americas-licensed-child-care-supply/) 
+
 Citation: Gibbs, H., Lee, W.F., Pepin, G., Sadowski, K., and Sojourner, A. (2026). Measuring America’s Licensed Child Care Supply. Center for American Progress Report. 
 
 This map is the product of a two-year long effort to contact every state agency with childcare licensing data in the United States to collect a comprehensive list of every licensed and registered childcare provider and relevant business information including their address, sector (Head Start, Family Day Home, Childcare, Pre-K), capacity, ages of children served, and quality. 
