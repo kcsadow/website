@@ -46,6 +46,6 @@ Interactions: New Evidence from the Universe of Publicly-Funded Early Childhood 
 Early Education and Development, 1-19. [READ ME](https://www.tandfonline.com/doi/abs/10.1080/10409289.2021.1888036) <br><br>
 
 <ins>**OTHER PUBLICATIONS**</ins><br>
-Sadowski, K. (2026). Child care pay still lags despite decades of policy change. Brookings Institution: The Brown Center Chalkboard. Brief. https://www.brookings.edu/articles/child-care-pay-still-lags-despite-decades-of-policy-change/
+Sadowski, K. (2026). Child care pay still lags despite decades of policy change. Brookings Institution: The Brown Center Chalkboard. Brief. https://www.brookings.edu/articles/child-care-pay-still-lags-despite-decades-of-policy-change/ <br><br>
 Miller, L.C. & Sadowski, K. (October, 2017). Students Changing Schools During the School Year: Student Mobility in Virginia and the Challenged School Divisions. Charlottesville, VA: USA. <br><br>
 Miller, L.C., Sadowski, K., Piver-Renna, J. (2019). The Fifth Indicator: Does School Climate Provide New Information on School Quality? Charlottesville, VA: USA.  <br><br>
