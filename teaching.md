@@ -3,7 +3,13 @@ layout: page
 title: Teaching
 ---
 
-Last updated: August 30, 2024
+Last updated: August 10, 2026
+
+<ins>**ECONOMICS OF EARLY CHILDHOOD**</ins> <br>
+**Objective:** Graduate-level course designed to outline the market from supply (providers, workforce, and the cost of quality) through demand (parental choice and maternal labor supply) to equilibrium outcomes with attention throughout to the market failures, information asymmetries, and the cost-quality-wages trilemma that shape ongoing subsidy and financing debates. <br> 
+**Taught:** Spring 2026 (initial offering) <br>
+**Role:** Teacher of Record <br> 
+[Link](https://explorecourses.stanford.edu/search?view=catalog&filter-coursestatus-Active=on&q=EDUC%20358:%20Economics%20of%20Early%20Childhood&academicYear=20252026) to course overview <br> <br>
 
 <ins>**BIG DATA FOR BIG POLICY PROBLEMS**</ins> <br>
 **Objective:** Summer introductory course designed to provide students with an overview of broad policy issues and teaching them how to use programming language R to answer policy-relevant questions. <br> 
