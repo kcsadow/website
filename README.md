@@ -2,13 +2,13 @@
 
 PhD, Cornell University Jeb E. Brooks School of Public Policy 
 
-[CV](https://drive.google.com/file/d/1aa4DJrlU-lyHi5u03VtflWUd7qe1fqMB/view?usp=sharing) 
+[CV](https://drive.google.com/file/d/1aa4DJrlU-lyHi5u03VtflWUd7qe1fqMB/view?usp=drive_link) 
 
 ## About Me
 
-I received my PhD from Cornell University's Jeb E. Brooks School of Public Policy in May 2025. My degree is in public policy with concentrations in economics and data science. I am an empirical microeconomist focused broadly in the fields of policy analysis, economics of education, early childhood education, and labor/public economics. I employ a variety of methodological tools including econometrics, natural language processing, and machine learning. I have mutiple strains of research with the majority of my time currently examining the effects of minimum wage policies and universal pre-kindergarten programs on childcare businesses. I am currently an Assistant Professor at Stanford University in the Graduate School of Education. 
+I am currently an Assistant Professor of Education at Stanford University. I received my PhD in public policy with concentrations in economics and data science from Cornell University in May 2025. I am an empirical microeconomist focused broadly in the fields of policy analysis, economics of education, early childhood education, and labor/public economics. I employ a variety of methodological tools including econometrics, natural language processing, and machine learning. I have mutiple strains of research with the majority of my time currently examining the effects of minimum wage policies and universal pre-kindergarten programs on childcare businesses and workers. 
 
-If you are interested in Katharine’s work and would like to know more, feel free to get in touch by email ksadow@stanford.edu.
+If you are interested in my work and would like to know more, feel free to get in touch by email ksadow@stanford.edu.
 
 <!-- display the social media buttons in your README (credit: carlsednaoui/gitsocial) -->
 
