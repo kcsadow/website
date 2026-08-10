@@ -30,10 +30,10 @@ Despite decades of policy attention aimed at strengthening the early childhood c
 
 
 <ins>**PEER-REVIEWED PUBLICATIONS**</ins><br>
-Fitzpatrick, M.D., Sadowski, K., Chen, C., Day, S., Konty, K., and Argenio, K. (2026). Asthma Management in Schools: A Tool for Reducing Absenteeism? Economics of Education Review.
-Eiermann, M., Fitzpatrick, M.D., Sadowski, K., and Wildeman, C. (2026). How Do (Human) Child Welfare Workers Respond to Machine-Generated Risk Scores? Sociological Science.
-Fitzpatrick, M., Sadowski, K., and Wildeman, C. (2025). Algorithms and Decision-making: Evidence from Child Maltreatment Reports. Journal of Human Resources.
-Boguslav, A., Cohen, J., Katz V., Sadowski, K., Wiseman, E., Wyckoff, J. (2023). Core Requirements, Structured Flexibility, and Local Judgment: Balancing Adherence and Adaptation in the Design and Implementation of District-Wide Professional Development. Educational Evaluation and Policy Analysis. 
+Fitzpatrick, M.D., Sadowski, K., Chen, C., Day, S., Konty, K., and Argenio, K. (2026). Asthma Management in Schools: A Tool for Reducing Absenteeism? Economics of Education Review. [READ ME](https://www.sciencedirect.com/science/article/pii/S0272775726000555) <br><br>
+Eiermann, M., Fitzpatrick, M.D., Sadowski, K., and Wildeman, C. (2026). How Do (Human) Child Welfare Workers Respond to Machine-Generated Risk Scores? Sociological Science. [READ ME](https://sociologicalscience.com/articles-v13-1-1/) <br><br>
+Fitzpatrick, M., Sadowski, K., and Wildeman, C. (2025). Algorithms and Decision-making: Evidence from Child Maltreatment Reports. Journal of Human Resources. [READ ME](https://jhr.uwpress.org/content/early/2025/08/01/jhr.0224-13437R2) <br><br>
+Boguslav, A., Cohen, J., Katz V., Sadowski, K., Wiseman, E., Wyckoff, J. (2023). Core Requirements, Structured Flexibility, and Local Judgment: Balancing Adherence and Adaptation in the Design and Implementation of District-Wide Professional Development. Educational Evaluation and Policy Analysis. [READ ME](https://journals.sagepub.com/doi/10.3102/01623737231210285) <br><br>
 Bassok, D., Markowitz, A., Bellows, L., & Sadowski, K. (2021). New Evidence on Teacher Turnover 
 in Early Childhood. Educational Evaluation and Policy Analysis, 42(4). [READ ME](https://eric.ed.gov/?id=EJ1284447) <br><br>
 Boguslav, A., Cohen, J., Katz V., Sadowski, K., Wiseman, E., Wyckoff, J. (2023). Core Requirements, Structured 
